@@ -1,1 +1,4 @@
-Flask
+Flask==2.0.2
+ssn==001-24-7890
+johndoe@example.com
+alice@example.com
